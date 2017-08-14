@@ -1,0 +1,58 @@
+/* Italic */
+@font-face {
+    font-family: 'Open Sans'; 
+    src: url(OpenSans-Italic_0.ttf); 
+    font-weight: normal;
+    font-style: italic;
+   }
+
+/* Regular */
+@font-face {
+    font-family: 'Open Sans'; 
+    src: url(OpenSans-Regular_0.ttf); 
+    font-weight: normal;
+    font-style: normal;
+   }
+
+/* Bold */
+@font-face {
+    font-family: 'Open Sans'; 
+    src: url(OpenSans-Bold_0.ttf); 
+    font-weight: bold;
+    font-style: normal;
+   }
+
+/* Bold Italic */
+@font-face {
+    font-family: 'Open Sans'; 
+    src: url(OpenSans-BoldItalic_0.ttf); 
+    font-weight: bold;
+    font-style: italic;
+   }
+
+/* Semibold */
+@font-face {
+    font-family: 'Open Sans'; 
+    src: url(OpenSans-Semibold.ttf); 
+    font-weight: 500;
+    font-style: normal;
+   }
+
+/* Semibold Italic */
+@font-face {
+    font-family: 'Open Sans'; 
+    src: url(OpenSans-SemiboldItalic.ttf); 
+    font-weight: 500;
+    font-style: italic;
+   }
+   
+ @font-face {
+      font-family: 'fontello';
+      src: url('../font/fontello.eot%3F22230694');
+      src: url('../font/fontello.eot%3F22230694') format('embedded-opentype'),
+           url('../font/fontello.woff%3F22230694') format('woff'),
+           url('../font/fontello.ttf%3F22230694') format('truetype'),
+           url('../font/fontello.svg%3F22230694') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
